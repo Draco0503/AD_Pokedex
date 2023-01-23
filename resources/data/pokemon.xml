@@ -1,0 +1,18 @@
+<pokedex>
+	<pokemon id="1">
+		<num_pokedex>23</num_pokedex>
+		<nombre>KK</nombre>
+		<tipo1>1</tipo1>
+		<tipo2>2</tipo2>
+		<shiny>true</shiny>
+		<url>URL</url>
+	</pokemon>
+	<pokemon id="2">
+		<num_pokedex>45</num_pokedex>
+		<nombre>SIIIIII</nombre>
+		<tipo1>2</tipo1>
+		<tipo2>19</tipo2>
+		<shiny>false</shiny>
+		<url>URL</url>
+	</pokemon>
+</pokedex>

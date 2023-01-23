@@ -1,0 +1,59 @@
+<tipos>
+	<tipo id="1">
+		<nombre>ACERO</nombre>
+	</tipo>
+	<tipo id="2">
+		<nombre>AGUA</nombre>
+	</tipo>
+	<tipo id="3">
+		<nombre>BICHO</nombre>
+	</tipo>
+	<tipo id="4">
+		<nombre>DRAGON</nombre>
+	</tipo>
+	<tipo id="5">
+		<nombre>ELECTRICO</nombre>
+	</tipo>
+	<tipo id="6">
+		<nombre>FANTASMA</nombre>
+	</tipo>
+	<tipo id="7">
+		<nombre>FUEGO</nombre>
+	</tipo>
+	<tipo id="8">
+		<nombre>HADA</nombre>
+	</tipo>
+	<tipo id="9">
+		<nombre>HIELO</nombre>
+	</tipo>
+	<tipo id="10">
+		<nombre>LUCHA</nombre>
+	</tipo>
+	<tipo id="11">
+		<nombre>NORMAL</nombre>
+	</tipo>
+	<tipo id="12">
+		<nombre>PLANTA</nombre>
+	</tipo>
+	<tipo id="13">
+		<nombre>PSIQUICO</nombre>
+	</tipo>
+	<tipo id="14">
+		<nombre>ROCA</nombre>
+	</tipo>
+	<tipo id="15">
+		<nombre>SINIESTRO</nombre>
+	</tipo>
+	<tipo id="16">
+		<nombre>TIERRA</nombre>
+	</tipo>
+	<tipo id="17">
+		<nombre>VENENO</nombre>
+	</tipo>
+	<tipo id="18">
+		<nombre>VOLADOR</nombre>
+	</tipo>
+	<tipo id="19">
+		<nombre>NULL</nombre>
+	</tipo>
+</tipos>

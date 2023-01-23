@@ -1,0 +1,4 @@
+1|1|Bulvasaur|12|19|false|URL
+2|2|Ivysaur|12|17|false|URL
+3|3|Venasaur|12|17|false|URL
+5|26|Ditto|11|19|false|URL

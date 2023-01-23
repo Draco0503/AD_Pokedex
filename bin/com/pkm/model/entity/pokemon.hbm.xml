@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+	<class name="com.pkm.model.entity.Pokemon" table="pokemon">
+		<id name="id" type="int">
+			<column name="id" />
+			<generator class="increment" />
+		</id>
+
+		<property name="num_pokedex" type="int">
+			<column name="num_pokedex" not-null="true" />
+		</property>
+		
+		<property name="nombre" type="string">
+			<column name="nombre" length="50" not-null="true" />
+		</property>
+
+		<property name="shiny" type="boolean">
+			<column name="shiny" not-null="false" />
+		</property>
+
+		<property name="url" type="string">
+			<column name="url" length="50" not-null="false" />
+		</property>
+
+		<many-to-one name="tipo1" column="tipo1" not-null="true" />
+
+		<many-to-one name="tipo2" column="tipo2" not-null="true" />
+
+	</class>
+
+</hibernate-mapping>
+<!--  https://www.codejava.net/frameworks/hibernate/hibernate-one-to-many-xml-mapping-example -->
